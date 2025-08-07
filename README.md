@@ -10,5 +10,16 @@ Welcome to the source code for my personal portfolio website!
 > [https://shashwat-manglam-jain.github.io/Portfolio-shashwat-manglam-jain/](https://shashwat-manglam-jain.github.io/Portfolio-shashwat-manglam-jain/)  
 > please go to the full path above to access the actual website.
 
-## 📁 Project Structure
+
+## 📌 About
+
+This is a fully responsive personal portfolio website created using HTML, CSS, and JavaScript. It showcases my skills, projects, and contact information.
+
+## 📬 Contact
+
+Feel free to reach out via the portfolio website's contact section.
+
+---
+
+Thanks for visiting!
 
